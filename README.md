@@ -1,6 +1,5 @@
 <h1 align="center">Portifólio - João 👾</h1>
 
-![Imagem do projeto finalizado](https://i.im.ge/2023/06/28/0wBVnW.IMG-20230628-085321.jpg)
 
 <h4 align="center"><a href="https://lucyanovidio.vercel.app">Confira o projeto aqui</a></h4>
 
@@ -40,6 +39,6 @@ Neste projeto apliquei os seguintes pontos:
 
 ---
 
-## 🏆 Licença
+## 😎 Licença
 
 The [MIT License](./LICENSE).

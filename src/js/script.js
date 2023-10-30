@@ -19,7 +19,7 @@ menuIcon.onclick = () => {
 
 let section = document.querySelectorAll('section');
 
-let navLinks = document.querySelectorAll('header navbar a');
+let navLinks = document.querySelectorAll('header .navbar a');
 
 
 
